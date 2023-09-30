@@ -15,9 +15,6 @@ I enjoy learning quantum algorithms, and some of my current projects include:
 ### Neural Network Framework
 I previously attempted my own version of of a neural network framework similar to Tensorflow and PyTorch:
 - **Neural Network FrameWork:** [Check it out here](https://github.com/samabwhite/NeuralNetworkFramework)
-### My Other Class Projects
-I will also include some of my class projects that show off some less niche programming:
-- **Checkers Game in Java w/ Basic AI and UI:** [Check it out here](https://github.com/samabwhite/CheckersGame)
 
 *Feel free to take a look and provide feedback or suggestions!*
 
