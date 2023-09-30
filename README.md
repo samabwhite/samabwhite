@@ -2,15 +2,14 @@
 # 👋 Hello, I'm Samuel White
 
 ## About Me
-I'm an ex-professional archer turned software engineering student @ Arizona State University. My passion lies at the intersection of Quantum Computing, Artificial Intelligence, and Finance. I'm completely self-taught in quantum computing and dedicate my free time to studying the subject.
+I'm an ex-professional archer turned software engineering student @ Arizona State University. I'm passionate about Quantum Computing, AI, and Finance. I'm completely self-taught in quantum computing and dedicate my free time to studying the subject.
 
 ## Skills
 - **Programming Languages:** Python (preferred), Qiskit, Java, C++, C
-- **Technologies:** Quantum Computing, Artificial Intelligence, Finance
 
 ## Projects
 ### Quantum Algorithms Implementation
-I enjoy learning quantum algorithms, and some of my current projects include:
+I enjoy learning about quantum algorithms, and some of my current projects include:
 - **Deutsch-Jozsa Algorithm:** [Check it out here](https://github.com/samabwhite/Deutsch-Jozsa-Implementation)
 ### Neural Network Framework
 I previously attempted my own version of of a neural network framework similar to Tensorflow and PyTorch:
