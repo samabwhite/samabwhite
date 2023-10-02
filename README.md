@@ -10,9 +10,10 @@ I'm an ex-professional archer turned software engineering student @ Arizona Stat
 ## Projects
 ### Quantum Algorithms Implementation
 I enjoy learning about quantum algorithms, and some of my current projects include:
+- **Grover Search Algorithm:** [Check it out here](https://github.com/samabwhite/Grover-Search-Implementation)
 - **Deutsch-Jozsa Algorithm:** [Check it out here](https://github.com/samabwhite/Deutsch-Jozsa-Implementation)
 ### Neural Network Framework
-I previously attempted my own version of of a neural network framework similar to Tensorflow and PyTorch:
+I previously attempted my own version of a neural network framework similar to Tensorflow and PyTorch:
 - **Neural Network FrameWork *(in progress)*:** [Check it out here](https://github.com/samabwhite/NeuralNetworkFramework)
 
 *Feel free to take a look and provide feedback or suggestions!*
