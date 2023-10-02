@@ -13,12 +13,9 @@ I enjoy learning about quantum algorithms, and some of my current projects inclu
 - **Deutsch-Jozsa Algorithm:** [Check it out here](https://github.com/samabwhite/Deutsch-Jozsa-Implementation)
 ### Neural Network Framework
 I previously attempted my own version of of a neural network framework similar to Tensorflow and PyTorch:
-- **Neural Network FrameWork:** [Check it out here](https://github.com/samabwhite/NeuralNetworkFramework)
+- **Neural Network FrameWork *(in progress)*:** [Check it out here](https://github.com/samabwhite/NeuralNetworkFramework)
 
 *Feel free to take a look and provide feedback or suggestions!*
-
-## Learning and Development
-I'm passionate about staying at the forefront of technology and always challenging myself. Currently, I'm self-teaching Quantum Computing and keeping a close eye on developments in Artificial Intelligence.
 
 ## LinkedIn
 Let's connect on LinkedIn: [Samuel White on LinkedIn](https://www.linkedin.com/in/samuel-white-0b8959138)
