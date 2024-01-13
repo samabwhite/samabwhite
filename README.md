@@ -26,4 +26,4 @@ Let's connect on LinkedIn: [Samuel White on LinkedIn](https://www.linkedin.com/i
 📧 Email: swhite75@asu.edu
 
 ## 🚀 Future Goals
-I aspire to eventually pursue my Masters Quantum Computing and Information, contribute to open-source projects, and explore the exciting intersections of Quantum Computing, AI, and Finance.
+I aspire to eventually pursue my Masters Quantum Computing and Information, contribute to open-source projects, and explore the exciting intersections of Quantum Computing, Physics Simulation, and AI.
