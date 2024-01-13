@@ -5,7 +5,8 @@
 I'm an ex-professional archer turned software engineering student @ Arizona State University. I'm passionate about Quantum Computing, AI, and Finance. I'm completely self-taught in quantum computing and dedicate my free time to studying the subject.
 
 ## Skills
-- **Programming Languages:** Python (preferred), Qiskit, Java, C++, C
+- **Programming Languages:** Python (preferred), Java, C++, C
+- **Libraries:** Qiskit, NumPy, Matplotlib, pandas
 
 ## Projects
 ### Quantum Algorithms Implementation
