@@ -6,7 +6,7 @@ I'm an ex-professional archer turned software engineering student @ Arizona Stat
 
 ## Skills
 - **Programming Languages:** Python (preferred), Java, C++, C
-- **Libraries:** Qiskit, NumPy, Matplotlib, pandas
+- **Libraries:** Qiskit, Pytorch, NumPy, Matplotlib, pandas
 
 ## Projects
 ### Quantum Algorithms Implementation
