@@ -11,7 +11,7 @@ I'm an ex-professional archer turned software engineering student @ Arizona Stat
 
 ## Projects
 ### [SamGPT.dev](https://www.samgpt.dev)
-[![GitHub](https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png)](https://github.com/samabwhite/SamGPT)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/samabwhite/SamGPT)  
 SamGPT is a custom built, locally trained, 10.5M parameter Decoder-Only Transformer (GPT) model integrated into a chatbot web application for real-time text predictions.  
 ![samgptgif](https://i.imgur.com/VrRXbKh.gif)
 #### Features:
@@ -22,7 +22,8 @@ SamGPT is a custom built, locally trained, 10.5M parameter Decoder-Only Transfor
 **Tech Stack:** Python, Pytorch, React, Node.js, Express.js, MongoDB  
 **Hosting:** AWS *(Sagemaker + Lambda + API Gateway)*, DigitalOcean
 
-### [Neural Network Framework](https://github.com/samabwhite/NeuralNetworkFramework)
+### [Neural Network Framework](https://github.com/samabwhite/NeuralNetworkFramework)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/samabwhite/NeuralNetworkFramework)  
 A simple neural network framework based on the Builder Design Pattern, implemented from scratch using Python and NumPy. This framework contains various types of layers, activation functions, and error functions, which makes it easy to build and train neural networks.
 #### Features:
 - Support for different layer types (Hidden Layer, Activation Layer, Error Layer)
@@ -31,7 +32,7 @@ A simple neural network framework based on the Builder Design Pattern, implement
 - Training with batch processing
 
 ## LinkedIn
-Let's connect on LinkedIn: [Samuel White on LinkedIn](https://www.linkedin.com/in/samuel-white-0b8959138)
+Let's connect on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samabwhite/)
 
 ## Contact
 📧 Email: swhite75@asu.edu
