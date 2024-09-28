@@ -10,7 +10,7 @@ I'm an ex-professional archer turned software engineering student @ Arizona Stat
 - **Databases:** MongoDB, PostgreSQL
 
 ## Projects
-### [SamGPT.dev](https://www.samgpt.dev)[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/samabwhite/SamGPT)
+### [SamGPT.dev](https://www.samgpt.dev)[![GitHub](https://img.icons8.com/m_rounded/512/FFFFFF/github.png)](https://github.com/samabwhite/SamGPT)
 SamGPT is a custom built, locally trained, 10.5M parameter Decoder-Only Transformer (GPT) model integrated into a chatbot web application for real-time text predictions.  
 ![samgptgif](https://i.imgur.com/VrRXbKh.gif)
 #### Features:
